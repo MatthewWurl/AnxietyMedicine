@@ -26,6 +26,7 @@ I'm a third-year undergraduate student from upstate New York pursuing a bachelor
   <img src="https://img.icons8.com/fluency/48/000000/swiftui.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
 
