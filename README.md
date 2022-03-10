@@ -5,6 +5,7 @@ I'm a third-year undergraduate student from upstate New York pursuing a bachelor
 
 - 💻 I'm currently learning SwiftUI and other Apple frameworks.
 - 🌱 I'm currently working on finding an internship for Summer 2022.
+- 📝 In my free time, I like to transcribe lyrics on [Genius](https://genius.com/).
 - 🧮 Fun fact: Math seems to be one of my favorite subjects.
 
 ## 🌎 Connect With Me
