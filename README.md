@@ -1,15 +1,45 @@
 <img src="https://i.imgur.com/x5zD23D.jpg">
 
-<h2>Hey, I'm Matt 👋🏼</h2>
-<p>I'm currently a second-year full-time student pursuing a bachelor's degree in Computer Science. I hope to one day become a software developer (or something similar, maybe). One thing about me: I am always interested in learning something new whether it be with programming or real-world stuff. No matter how much you know, there is always something else to learn.</p>
+# 👋🏼 Hey, I'm Matt
+I'm a third-year undergraduate student from upstate New York pursuing a bachelor's degree in Computer Science.
 
-<h2>Contact Me 📬</h2>
-<ul>
-  <li>Twitter: <code>Coming Soon...</code></li>
-  <li>LinkedIn: <code>Coming Soon...</code></li>
-  <li>Discord: <code>@AnxietyMedicine#0001</code></li>
-  <li>E-Mail: <code>anxietymedicinedev@gmail.com</code></li>
-</ul>
+- 💻 I'm currently learning SwiftUI and other Apple frameworks.
+- 🌱 I'm currently working on finding an internship for Summer 2022.
+- 🧮 Fun fact: Math seems to be one of my favorite subjects.
+
+## 🌎 Connect With Me
+<div>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mattwurl/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+  </a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/MattWurl">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+  </a>
+</div>
+
+## 🛠 Languages, Technologies & Tools
+<div>
+  <img src="https://img.icons8.com/color/50/000000/swift.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/swiftui.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+</div>
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/xcode.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+</div>
+
+<br />*\*While this may not include everything, it's the foundation for most of the projects I've done.*
+
+## 📊 GitHub Stats
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anxietymedicine)
+
+*All icons used were provided by <a href="https://icons8.com/">Icons8</a>.*
 
 <!--
 **AnxietyMedicine/AnxietyMedicine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
