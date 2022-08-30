@@ -1,12 +1,11 @@
 <img src="https://i.imgur.com/x5zD23D.jpg">
 
 # 👋🏼 Hey, I'm Matt
-I'm a third-year undergraduate student from upstate New York pursuing a bachelor's degree in Computer Science.
+I'm a fourth-year undergraduate student from upstate New York pursuing a bachelor's degree in Computer Science.
 
 - 💻 I'm currently learning SwiftUI and other Apple frameworks.
-- 🌱 I'm currently working on finding an internship for Summer 2022.
-- 📝 I'm currently a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/JustMattX).
-- 🧮 Fun fact: Math seems to be one of my favorite subjects
+- 📚 I'm focused on the Fall 2022 semester.
+- 📝 I'm a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/JustMattX).
 
 ## 🌎 Connect With Me
 <div>
