@@ -38,7 +38,10 @@ I'm a fourth-year undergraduate student from upstate New York pursuing a bachelo
 <br />*\*While this may not include everything, it's the foundation for most of the projects I've done.*
 
 ## 📊 GitHub Stats
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anxietymedicine)
+<div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnxietyMedicine&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxietymedicine&layout=compact&theme=dark" alt="My Top Languages">
+</div>
 
 *All icons used were provided by <a href="https://icons8.com/">Icons8</a>.*
 
