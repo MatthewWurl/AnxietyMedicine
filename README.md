@@ -4,7 +4,7 @@
 I'm a fourth-year undergraduate student from upstate New York pursuing a bachelor's degree in Computer Science.
 
 - 💻 I'm currently learning SwiftUI and other Apple frameworks.
-- 📚 I'm focused on the Fall 2022 semester.
+- 📚 I'm focused on the Spring 2023 semester.
 - 📝 I'm a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/JustMattX).
 
 ## 🌎 Connect With Me
