@@ -1,23 +1,12 @@
-<img src="https://i.imgur.com/x5zD23D.jpg">
+# 👋🏼 Hey, I'm Matthew
+I'm a 2023 Computer Science undergraduate student from upstate New York with a passion for iOS development.
 
-# 👋🏼 Hey, I'm Matt
-I'm a fourth-year undergraduate student from upstate New York pursuing a bachelor's degree in Computer Science.
-
-- 💻 I'm currently learning SwiftUI and other Apple frameworks.
-- 📚 I'm focused on the Spring 2023 semester.
-- 📝 I'm a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/JustMattX).
+- ✝️ I'm a disciple of Christ, aligned with the "Five Solae" of the Reformation.
+- 💻 I'm currently learning UIKit and other Apple frameworks.
+- 📝 I'm a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/MatthewWurl).
 
 ## 🌎 Connect With Me
-<div>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mattwurl/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-  </a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/MattWurl">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
-  </a>
-</div>
+You can connect with me on my [LinkedIn](https://www.linkedin.com/in/matthewwurl)!
 
 ## 🛠 Languages, Technologies & Tools
 <div>
@@ -35,7 +24,7 @@ I'm a fourth-year undergraduate student from upstate New York pursuing a bachelo
   <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
 </div>
 
-<br />*\*While this may not include everything, it's the foundation for most of the projects I've done.*
+<br />*While this may not include everything, it's the foundation for most of the projects I've done.*
 
 ## 📊 GitHub Stats
 <div>
@@ -43,19 +32,4 @@ I'm a fourth-year undergraduate student from upstate New York pursuing a bachelo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxietymedicine&layout=compact&theme=dark" alt="My Top Languages">
 </div>
 
-*All icons used were provided by <a href="https://icons8.com/">Icons8</a>.*
-
-<!--
-**AnxietyMedicine/AnxietyMedicine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />*All icons used were provided by <a href="https://icons8.com/">Icons8</a>.*
