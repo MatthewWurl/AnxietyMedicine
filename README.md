@@ -28,8 +28,8 @@ You can connect with me on my [LinkedIn](https://www.linkedin.com/in/matthewwurl
 
 ## 📊 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnxietyMedicine&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxietymedicine&layout=compact&theme=dark" alt="My Top Languages">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatthewWurl&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="My GitHub Statistics">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewWurl&layout=compact&theme=dark" alt="My Top Languages">
 </div>
 
 <br />*All icons used were provided by <a href="https://icons8.com/">Icons8</a>.*
