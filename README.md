@@ -1,9 +1,10 @@
 # 👋🏼 Hey, my name is Matthew
-I am a 2023 Computer Science undergraduate student from upstate New York with a passion for iOS development.
+I am a 2023 Computer Science graduate from upstate New York and an aspiring software developer.
 
 - ✝️ I am a disciple of Christ.
-- 💻 I am currently learning UIKit and other Apple frameworks.
-- 📝 I am a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/MatthewWurl).
+- 💻 I am currently learning (more about) JavaScript!
+- 🌱 My goal is to get a job as a React developer.
+- 📝 Fun fact: I am a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/Sledding).
 
 ## 🌎 Connect With Me
 You can connect with me on my [LinkedIn](https://www.linkedin.com/in/matthewwurl)!
