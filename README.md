@@ -4,7 +4,7 @@ I am a 2023 Computer Science graduate from upstate New York and an aspiring soft
 - ✝️ I am a disciple of Christ.
 - 💻 I am currently learning (more about) JavaScript!
 - 🌱 My goal is to get a job as a React developer.
-- 📝 Fun fact: I am a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/Sledding).
+- 📝 Fun fact: I am a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/Matthew).
 
 ## 🌎 Connect With Me
 You can connect with me on my [LinkedIn](https://www.linkedin.com/in/matthewwurl)!
