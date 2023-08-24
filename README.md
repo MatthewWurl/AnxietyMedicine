@@ -2,7 +2,7 @@
 I am a 2023 Computer Science graduate from upstate New York and an aspiring software developer.
 
 - ✝️ I am a disciple of Christ.
-- 💻 I am currently learning (more about) JavaScript!
+- 💻 I am currently learning (more about) JavaScript and TypeScript!
 - 🌱 My goal is to get a job as a React developer.
 - 📝 Fun fact: I am a Transcriber for Genius. You can find me and my contributions [here](https://genius.com/Matthew).
 
@@ -14,6 +14,7 @@ You can connect with me on my [LinkedIn](https://www.linkedin.com/in/matthewwurl
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/>
